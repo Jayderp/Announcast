@@ -1,0 +1,15 @@
+name: Announcery
+main: me.jaydenderp.announcery.Main
+version: 1.0
+description: Say anything
+authors: [jaydenderp]
+
+commands:
+  announce:
+    description: Announce text
+    usage: /announce
+
+permissions:
+  announce.send:
+    description: Permission for using the main command
+    default: op
