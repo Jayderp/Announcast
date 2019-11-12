@@ -1,3 +1,2 @@
 # Announcast
-Official repository for Announcast source code
-src.zip for source code
+very cool plugin /announce <UR THANG HER>
